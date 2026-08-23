@@ -26,7 +26,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Linguagens</h3>
+<h3 data-importer="text" align="left">🛠 Tecnologias e Linguagens</h3>
 
 ###
 
